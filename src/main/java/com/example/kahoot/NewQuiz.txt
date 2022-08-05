@@ -1,0 +1,25 @@
+How do you create a variable with the numeric value 5? (In Java)
+int x = 5;
+x = 5;
+num x = 5;
+value x = 5;
+
+What is the default value of static integer variable of a class in Java?
+0
+1
+Garbage value
+NaN
+
+Which data type is used to create a variable that should store text?
+String
+txt
+string
+Text
+
+JRE stands for Java {blank} Environment.
+runtime
+
+Comparable is an example for Java {blank}
+interface
+
+
